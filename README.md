@@ -1,0 +1,2 @@
+# github_image_garage
+GithubのREADME等に挿入するための画像を置くリポジトリ
